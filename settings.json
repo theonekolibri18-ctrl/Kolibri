@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Kolibri",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "KolibrisLifesteal.aternos.me",
-    "port": 30815,
-    "version": "",
+    "ip": "KolibrisLifestealSMP.aternos.me",
+    "port": 21510,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to TheOneKolibri!",
         "I like to play Minecraft!"
       ]
     },
